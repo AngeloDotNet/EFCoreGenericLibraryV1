@@ -1,4 +1,4 @@
-﻿name: Publish Data.EFCore.Generic
+﻿name: Publish Data.EFCore.CustomV1
  
 on:
   push:
